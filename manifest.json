@@ -1,6 +1,76 @@
 {
   "archivos": [
     {
+      "ruta": "config/fancymenu/assets/pliki/boton_entrar.png",
+      "sha1": "d34cc49289f3c2269ddc47b120fcb425232e38c5",
+      "tamano": 6470
+    },
+    {
+      "ruta": "config/fancymenu/assets/pliki/boton_entrar_encima.png",
+      "sha1": "d2709ad66f25d0c76be98f234182b598507136c6",
+      "tamano": 6492
+    },
+    {
+      "ruta": "config/fancymenu/assets/pliki/boton_mods.png",
+      "sha1": "3b573dec1c307762550bdd257d70918e20be2707",
+      "tamano": 1505
+    },
+    {
+      "ruta": "config/fancymenu/assets/pliki/boton_mods_encima.png",
+      "sha1": "8283392e93a9590ea64bdb2e5204e9bb34be2b7b",
+      "tamano": 1481
+    },
+    {
+      "ruta": "config/fancymenu/assets/pliki/boton_opciones.png",
+      "sha1": "1b6b45a95c9482a6b2d8afcd701edee13b556cb7",
+      "tamano": 1601
+    },
+    {
+      "ruta": "config/fancymenu/assets/pliki/boton_opciones_encima.png",
+      "sha1": "34b4b879beea9647717b743cd9f576c76d3e1542",
+      "tamano": 1611
+    },
+    {
+      "ruta": "config/fancymenu/assets/pliki/boton_salir.png",
+      "sha1": "ba2a866e8ee2026327dd4369ea450d8185c28837",
+      "tamano": 1875
+    },
+    {
+      "ruta": "config/fancymenu/assets/pliki/boton_salir_encima.png",
+      "sha1": "47a267109c59a1e964e57f7e1c0ce6790a7d2b49",
+      "tamano": 1892
+    },
+    {
+      "ruta": "config/fancymenu/assets/pliki/fondo.png",
+      "sha1": "6d314f38aa1a5af48f19f571daf4340668cdfdb6",
+      "tamano": 22183
+    },
+    {
+      "ruta": "config/fancymenu/assets/pliki/logo.png",
+      "sha1": "6933d7e599e5bf3148c8393a88ddcd7c113cbd13",
+      "tamano": 34139
+    },
+    {
+      "ruta": "config/fancymenu/assets/pliki/tarjeta.png",
+      "sha1": "d804635445410525d5f0a8857e972ee94ad2a078",
+      "tamano": 11243
+    },
+    {
+      "ruta": "config/fancymenu/customizablemenus.txt",
+      "sha1": "b2392f72072ad64e0543457f2cfe32bc4eb360ff",
+      "tamano": 79
+    },
+    {
+      "ruta": "config/fancymenu/customization/pliki_menu.txt",
+      "sha1": "b8c0c4e6c4e7702a56eaf39d1a9723ba9f645767",
+      "tamano": 37817
+    },
+    {
+      "ruta": "config/fancymenu/options.txt",
+      "sha1": "7d7b7732b8e2140f5a9d5d6dbc0433142854e1a7",
+      "tamano": 4555
+    },
+    {
       "ruta": "config/samderbrow/leeme.txt",
       "sha1": "1d4e6427bf6bab228a68872bb69d59f188345f70",
       "tamano": 56
