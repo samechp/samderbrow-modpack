@@ -2,8 +2,13 @@
   "archivos": [
     {
       "ruta": "config/samderbrow/leeme.txt",
-      "sha1": "18c466057dca45459c20cdedb0ae0eac90c1b8dd",
-      "tamano": 46
+      "sha1": "1d4e6427bf6bab228a68872bb69d59f188345f70",
+      "tamano": 56
+    },
+    {
+      "ruta": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+      "tamano": 47428
     },
     {
       "ruta": "mods/jei-1.20.1-forge-15.59.0.212.jar",
