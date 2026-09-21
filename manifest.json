@@ -1,0 +1,19 @@
+{
+  "archivos": [
+    {
+      "ruta": "config/samderbrow/leeme.txt",
+      "sha1": "18c466057dca45459c20cdedb0ae0eac90c1b8dd",
+      "tamano": 46
+    },
+    {
+      "ruta": "mods/jei-1.20.1-forge-15.59.0.212.jar",
+      "sha1": "bfed31fa3defb09f8890890a91359ef4ab8623e0",
+      "tamano": 1826038
+    },
+    {
+      "ruta": "options.txt",
+      "sha1": "500b637a7fd307d5b6812469141b679d7dae3fe8",
+      "tamano": 11
+    }
+  ]
+}
