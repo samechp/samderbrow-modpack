@@ -76,6 +76,16 @@
       "tamano": 56
     },
     {
+      "ruta": "config/verity-client.toml",
+      "sha1": "8ae37c53dd8affdb33781652fe988c196e927efb",
+      "tamano": 2353
+    },
+    {
+      "ruta": "config/verity-common.toml",
+      "sha1": "8ae37c53dd8affdb33781652fe988c196e927efb",
+      "tamano": 2353
+    },
+    {
       "ruta": "mods/AI-Improvements-1.20-0.5.2.jar",
       "sha1": "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8",
       "tamano": 29553
