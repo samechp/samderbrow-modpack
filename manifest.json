@@ -71,6 +71,11 @@
       "tamano": 4555
     },
     {
+      "ruta": "config/pliki-voz.txt",
+      "sha1": "7b9b622aca5bf0233b911642ae96ac63af5853fb",
+      "tamano": 250
+    },
+    {
       "ruta": "config/samderbrow/leeme.txt",
       "sha1": "1d4e6427bf6bab228a68872bb69d59f188345f70",
       "tamano": 56
