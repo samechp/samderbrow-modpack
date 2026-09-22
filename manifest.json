@@ -71,29 +71,9 @@
       "tamano": 4555
     },
     {
-      "ruta": "config/pliki-voz.txt",
-      "sha1": "7b9b622aca5bf0233b911642ae96ac63af5853fb",
-      "tamano": 250
-    },
-    {
       "ruta": "config/samderbrow/leeme.txt",
       "sha1": "1d4e6427bf6bab228a68872bb69d59f188345f70",
       "tamano": 56
-    },
-    {
-      "ruta": "config/verity-client.toml",
-      "sha1": "8ae37c53dd8affdb33781652fe988c196e927efb",
-      "tamano": 2353
-    },
-    {
-      "ruta": "config/verity-common.toml",
-      "sha1": "8ae37c53dd8affdb33781652fe988c196e927efb",
-      "tamano": 2353
-    },
-    {
-      "ruta": "config/verity_cartesia-common.toml",
-      "sha1": "0bf925997da0eb5b2c405c9b4957362933f06ead",
-      "tamano": 1474
     },
     {
       "ruta": "mods/AI-Improvements-1.20-0.5.2.jar",
@@ -364,6 +344,11 @@
       "ruta": "mods/TravelersTitles-1.20-Forge-4.0.2.jar",
       "sha1": "64a435eaa6e08fff5af2c720c3b6a40fe292f2f7",
       "tamano": 228191
+    },
+    {
+      "ruta": "mods/WI-Zoom-1.5-MC1.20.1-Forge.jar",
+      "sha1": "de100712cf2b7187a23f5cd726b93e576592979b",
+      "tamano": 141897
     },
     {
       "ruta": "mods/YungsApi-1.20-Forge-4.0.6.jar",
@@ -731,6 +716,11 @@
       "tamano": 476347
     },
     {
+      "ruta": "mods/lootr-forge-1.20-0.7.35.94.jar",
+      "sha1": "1ec77a7df8adbf3290a296bf25b8f99f37a60020",
+      "tamano": 463485
+    },
+    {
       "ruta": "mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
       "sha1": "24f30313977ec61520a2adab321188b51c208d16",
       "tamano": 693579
@@ -896,11 +886,6 @@
       "tamano": 588268
     },
     {
-      "ruta": "mods/smileys-better-voice-3.1.0.jar",
-      "sha1": "d53fc00a0765619a6389aea065fbb3f490ce35d3",
-      "tamano": 1428502
-    },
-    {
       "ruta": "mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
       "sha1": "3fd79132dba444bd109b5de4ad75dee06a48e130",
       "tamano": 41044
@@ -959,12 +944,6 @@
       "ruta": "mods/trashslot-forge-1.20.1-15.1.5.jar",
       "sha1": "31e3469cb88841cbaca4fb963bc9e4a1db6f8f4f",
       "tamano": 117983
-    },
-    {
-      "ruta": "mods/verity-5.7.4.jar",
-      "sha1": "2c1a7a5d4105ce809c61846e42f39cda19375ef3",
-      "tamano": 246483796,
-      "url": "https://cdn.modrinth.com/data/on1Y0osD/versions/Tc8RyKmi/verity-5.7.4.jar"
     },
     {
       "ruta": "mods/visuality-forge-2.2.0.jar",

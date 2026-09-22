@@ -1,3 +1,0 @@
-# Claves de la voz de Verity (codificadas). El launcher las pone en las configs de Verity.
-groq=MlY1VDlIRHJSNnNZWUZYZEhjMnJBSDQ2WUYzYnlkR1c1MjNjRmI3S3lPTWR3bDViQ1l3MV9rc2c=
-fish=a19naHgtNmE1V0JKeGg1SmhGSFByX0VnWEF1WTJIN0ZYNXRZZ0x4MmFKeS1oc2lmLWtz
