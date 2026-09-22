@@ -1,0 +1,4 @@
+Copia del generador de manifest.json del launcher (generar_manifest.py, sincronizar.py, ajustes.py).
+GitHub la corre sola en cada subida (.github/workflows/manifest.yml), así que se puede subir
+archivos arrastrándolos en la página de GitHub sin tocar manifest.json.
+Si cambian las reglas de sincronización en el launcher, hay que copiar estos archivos de nuevo.
