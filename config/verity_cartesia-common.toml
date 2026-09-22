@@ -1,0 +1,32 @@
+#Enable Smiley's Better Voice (Cartesia or Fish Audio TTS for Verity).
+useCartesia = true
+#Which TTS provider to use: FISH (quality & emotion) or CARTESIA (speed & accuracy). Settings for each are stored separately.
+#Allowed Values: FISH, CARTESIA
+ttsProvider = "FISH"
+#Cartesia API key (https://play.cartesia.ai/keys).
+apiKey = ""
+#Cartesia voice ID (https://play.cartesia.ai/voices).
+voiceId = "afb19d1b-4044-4f34-a962-f4aef640a002"
+#Cartesia speech speed (0.6 to 1.5).
+#Range: 0.6 ~ 1.5
+speed = 1.0
+#Cartesia speech volume multiplier (0.5 to 2.0).
+#Range: 0.5 ~ 2.0
+volume = 1.0
+#Fish Audio API key (https://fish.audio/app/api-keys/).
+fishApiKey = ""
+#Fish Audio voice / reference ID (https://fish.audio/app/discovery/).
+fishVoiceId = "711cf3ed00ab441a8f54a45058047b7a"
+#Fish Audio speech speed (0.5 to 2.0).
+#Range: 0.5 ~ 2.0
+fishSpeed = 1.0
+#Fish Audio volume multiplier (0.5 to 2.0). Converted to dB for the API.
+#Range: 0.5 ~ 2.0
+fishVolume = 1.0
+#Let Verity capture push-to-talk mic speech (via Verity STT) and build a private Fish voice mimic after 10 seconds of clean audio. Stored per player on the server; cloned models are private — only you can access them.
+fishAllowVoiceCloning = false
+#Allow chatting with Verity while he is held as an item in your inventory.
+talkWhileInInventory = true
+#Show <Verity> in chat shortly after you speak, then type his reply letter-by-letter in sync with TTS audio.
+textStreamEnabled = true
+
