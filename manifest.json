@@ -71,6 +71,11 @@
       "tamano": 4555
     },
     {
+      "ruta": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "sha1": "111d5e8bcb8dab73e4b79ed46e47a416cf7df9a2",
+      "tamano": 194
+    },
+    {
       "ruta": "config/samderbrow/leeme.txt",
       "sha1": "1d4e6427bf6bab228a68872bb69d59f188345f70",
       "tamano": 56
