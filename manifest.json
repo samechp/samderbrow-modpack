@@ -86,6 +86,11 @@
       "tamano": 29553
     },
     {
+      "ruta": "mods/ATi Structures V1.4.6.jar",
+      "sha1": "d38774021a0a7d916f9fe67d9e8d63e7d6df2bea",
+      "tamano": 13115969
+    },
+    {
       "ruta": "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
       "sha1": "87ea0cd8ec56763185ee0db09eec7c676969e4da",
       "tamano": 53429226
@@ -146,9 +151,19 @@
       "tamano": 14210380
     },
     {
+      "ruta": "mods/Dungeon Crawl-1.20.1-2.3.15.jar",
+      "sha1": "e17ebc9be0b3f0646f2de10563b72827442cc866",
+      "tamano": 758123
+    },
+    {
       "ruta": "mods/DungeonsArise-1.20.x-2.1.58-release.jar",
       "sha1": "30b4520e4fab40a6bb6153a2c72e34bcb721f0a5",
       "tamano": 8762342
+    },
+    {
+      "ruta": "mods/DungeonsAriseSevenSeas-1.19.2-1.0.2-forge.jar",
+      "sha1": "b585510746697689562f2661313e5f66718e5861",
+      "tamano": 248171
     },
     {
       "ruta": "mods/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
@@ -251,6 +266,16 @@
       "tamano": 55258
     },
     {
+      "ruta": "mods/MoogsStructureLib-forge-1.20-3.3.1.jar",
+      "sha1": "77cb27cfe31bb13d8cf098eaf5a42af42ca74091",
+      "tamano": 440233
+    },
+    {
+      "ruta": "mods/MoogsVoyagerStructures-universal-1.20-5.1.1.jar",
+      "sha1": "839c3f7538c9adf972d49d1d18db234bd2479950",
+      "tamano": 2444473
+    },
+    {
       "ruta": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
       "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
       "tamano": 76237
@@ -321,6 +346,11 @@
       "tamano": 1342987
     },
     {
+      "ruta": "mods/Quark-4.0-462.jar",
+      "sha1": "9b0fb82995622a0070c00827c698c43b49d9d14b",
+      "tamano": 14935230
+    },
+    {
       "ruta": "mods/Searchables-forge-1.20.1-1.0.3.jar",
       "sha1": "5b976f6e76ec74cdef21865e31f56bcb11558db7",
       "tamano": 77732
@@ -354,6 +384,11 @@
       "ruta": "mods/TravelersTitles-1.20-Forge-4.0.2.jar",
       "sha1": "64a435eaa6e08fff5af2c720c3b6a40fe292f2f7",
       "tamano": 228191
+    },
+    {
+      "ruta": "mods/VisualWorkbench-v8.0.1-1.20.1-Forge.jar",
+      "sha1": "563804910a7ebb1082c1eedca363b16e2c572459",
+      "tamano": 82557
     },
     {
       "ruta": "mods/WI-Zoom-1.5-MC1.20.1-Forge.jar",
@@ -421,6 +456,11 @@
       "tamano": 200341
     },
     {
+      "ruta": "mods/Zeta-1.0-31.jar",
+      "sha1": "8c4a8ef0444b53ff408d5b89126285031081d92f",
+      "tamano": 1006518
+    },
+    {
       "ruta": "mods/[1.20.1] SecurityCraft v1.10.2.1.jar",
       "sha1": "6184ca6af68a0a4e8ca4dd28a542b5d1a6c2e3ab",
       "tamano": 4995865
@@ -476,6 +516,11 @@
       "tamano": 91808
     },
     {
+      "ruta": "mods/ba_bt-1.20.1-3.0.0-beta3.2.1.jar",
+      "sha1": "fd9fc82fbdca5364992ec1b6518e3eb8d5bdc8ab",
+      "tamano": 54453322
+    },
+    {
       "ruta": "mods/balm-forge-1.20.1-7.3.43.jar",
       "sha1": "4248e3b8fb20e9b6432d2225325c605f4ad7b211",
       "tamano": 561741
@@ -494,6 +539,11 @@
       "ruta": "mods/born_in_chaos_[Forge]1.20.1_1.7.5.jar",
       "sha1": "4d616e1ccef4c55e14b04ca63228d826f4fdda5e",
       "tamano": 11839865
+    },
+    {
+      "ruta": "mods/camera-forge-1.20.1-1.0.20.jar",
+      "sha1": "f6f15a7c2cd66a7e702c2eacafb9b10b3e074d39",
+      "tamano": 299727
     },
     {
       "ruta": "mods/canary-mc1.20.1-0.3.3.jar",
@@ -621,6 +671,11 @@
       "tamano": 13161907
     },
     {
+      "ruta": "mods/dungeons_enhanced-1.20.1-5.4.3.jar",
+      "sha1": "18a8163d7b9128959091d9cc95d9a14bd1db25bf",
+      "tamano": 1421681
+    },
+    {
       "ruta": "mods/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
       "sha1": "43b3e0766a9e7a30651cc01756476657b865b7a2",
       "tamano": 402345
@@ -694,6 +749,16 @@
       "ruta": "mods/handcrafted-forge-1.20.1-3.0.6.jar",
       "sha1": "f1b9a009529134c736c59d6d192d53a4a25e5e5f",
       "tamano": 7111059
+    },
+    {
+      "ruta": "mods/idas_forge-1.13.0+1.20.1.jar",
+      "sha1": "84386b55c1729e8fb62f91211d046fb6d7ef23d2",
+      "tamano": 14420114
+    },
+    {
+      "ruta": "mods/integrated_api-forge-1.20.1-1.8.2.jar",
+      "sha1": "a5a23fb8550720edd345b1f443741723c7508b6b",
+      "tamano": 712428
     },
     {
       "ruta": "mods/jei-1.20.1-forge-15.56.0.205.jar",
@@ -851,6 +916,11 @@
       "tamano": 11895585
     },
     {
+      "ruta": "mods/reds-more-structures-1.0.8R.jar",
+      "sha1": "19fb07aa9a8acacd6dc019617c04aa365fb3a4ad",
+      "tamano": 1364521
+    },
+    {
       "ruta": "mods/relics-1.20.1-0.8.0.13.jar",
       "sha1": "940358d190780a9a59a69dd7e75a5e7cf07e4209",
       "tamano": 1521089
@@ -926,6 +996,11 @@
       "tamano": 3114590
     },
     {
+      "ruta": "mods/structure_gel-1.20.1-2.16.2.jar",
+      "sha1": "ec8c59d2a69eca3249a8da673f572b40b6d59895",
+      "tamano": 966028
+    },
+    {
       "ruta": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
       "sha1": "f80f9eed728966adcfbcc848633e789645057281",
       "tamano": 206584
@@ -954,6 +1029,21 @@
       "ruta": "mods/trashslot-forge-1.20.1-15.1.5.jar",
       "sha1": "31e3469cb88841cbaca4fb963bc9e4a1db6f8f4f",
       "tamano": 117983
+    },
+    {
+      "ruta": "mods/undergroundworlds-forge-3.0.1-1.20.1.jar",
+      "sha1": "a6d3e1ea6c3e1b153bce60dff551aaa436bfb074",
+      "tamano": 3846334
+    },
+    {
+      "ruta": "mods/valhelsia_core-forge-1.20.1-1.1.2.jar",
+      "sha1": "5e88feef805d15ffbe3c0918f53d6ed213a7dc6a",
+      "tamano": 203313
+    },
+    {
+      "ruta": "mods/valhelsia_structures-forge-1.20.1-1.1.2.jar",
+      "sha1": "60e859d58b6ee8db01ea7a08e0dd6cbad761befb",
+      "tamano": 2569623
     },
     {
       "ruta": "mods/visuality-forge-2.2.0.jar",
