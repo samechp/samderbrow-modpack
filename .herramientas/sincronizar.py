@@ -3,15 +3,22 @@ import os
 import re
 from dataclasses import dataclass, field
 
-from ajustes import ARCHIVOS_INICIALES, CARPETAS_ESPEJO, CARPETAS_PISAR
+from ajustes import ARCHIVOS_INICIALES, CARPETAS_AJENAS, CARPETAS_ESPEJO, CARPETAS_PISAR
 
 _RESERVADOS = {"CON", "PRN", "AUX", "NUL"} | {f"COM{i}" for i in range(1, 10)} | {f"LPT{i}" for i in range(1, 10)}
 _SHA1 = re.compile(r"[0-9a-fA-F]{40}")
 PREFIJO_URL_EXTERNA = "https://cdn.modrinth.com/"
 
 
+def es_ajena(ruta):
+    """True si la ruta la maneja un mod (por ejemplo el navegador que baja MCEF) y no el launcher."""
+    return any(ruta == c or ruta.startswith(c + "/") for c in CARPETAS_AJENAS)
+
+
 def regla_de(ruta):
     """Qué regla aplica a una ruta del pack: "espejo", "pisar", "inicial" o None."""
+    if es_ajena(ruta):
+        return None
     partes = ruta.split("/")
     if len(partes) == 1:
         return "inicial" if ruta in ARCHIVOS_INICIALES else None
@@ -59,6 +66,8 @@ def escanear_locales(carpeta):
             for nombre in archivos:
                 camino = os.path.join(raiz, nombre)
                 ruta = os.path.relpath(camino, carpeta).replace(os.sep, "/")
+                if es_ajena(ruta):
+                    continue
                 locales[ruta] = sha1_de_archivo(camino)
     for ruta in ARCHIVOS_INICIALES:
         camino = os.path.join(carpeta, ruta)
