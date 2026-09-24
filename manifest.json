@@ -81,6 +81,46 @@
       "tamano": 56
     },
     {
+      "ruta": "glaidens_radio_mod/natives/2.2.6/.installed",
+      "sha1": "02c633314a73756463e74adc903cd1dad7603bac",
+      "tamano": 11
+    },
+    {
+      "ruta": "glaidens_radio_mod/natives/2.2.6/connector.dll",
+      "sha1": "8bee5c8a61f6e0a98c1b74058d226d4106e59c2f",
+      "tamano": 2411008
+    },
+    {
+      "ruta": "glaidens_radio_mod/natives/2.2.6/libmpg123-0.dll",
+      "sha1": "cc77009b567295f1c02a8f4c5d75d31b47de2d75",
+      "tamano": 338067
+    },
+    {
+      "ruta": "glaidens_radio_mod/youtube/1.18.1-f45bbb7/.installed",
+      "sha1": "6b1d3740395671f497ec0cf1c2a239db9f6ffb2c",
+      "tamano": 15
+    },
+    {
+      "ruta": "glaidens_radio_mod/youtube/1.18.1-f45bbb7/rhino-1.7.15.jar",
+      "sha1": "39e53f8e769ea9a7e799f266aa47c85edd99a29e",
+      "tamano": 1407735
+    },
+    {
+      "ruta": "glaidens_radio_mod/youtube/1.18.1-f45bbb7/rhino-engine-1.7.15.jar",
+      "sha1": "7bd21acc82129fa4a9d229250c74d238710b53ca",
+      "tamano": 19604
+    },
+    {
+      "ruta": "glaidens_radio_mod/youtube/1.18.1-f45bbb7/youtube-common-f45bbb7aebfcbc1c553769e04af6cd43afa8b7c3-20260819.163356-1.jar",
+      "sha1": "1667693803895f62e115c37e688c99f8a603b129",
+      "tamano": 134698
+    },
+    {
+      "ruta": "glaidens_radio_mod/youtube/1.18.1-f45bbb7/youtube-v2-f45bbb7aebfcbc1c553769e04af6cd43afa8b7c3-20260819.163356-1.jar",
+      "sha1": "4d29295038182932f34afa169184ca5c77d27fec",
+      "tamano": 16396
+    },
+    {
       "ruta": "mods/AI-Improvements-1.20-0.5.2.jar",
       "sha1": "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8",
       "tamano": 29553
@@ -741,6 +781,11 @@
       "tamano": 7863
     },
     {
+      "ruta": "mods/glaidens_radio_mod-1.5.0-forge-1.20.1.jar",
+      "sha1": "822e85c9692a362b86e266fccc29230c60802f48",
+      "tamano": 6872092
+    },
+    {
       "ruta": "mods/guideme-20.1.15.jar",
       "sha1": "3d432fc99cefcfd17a12635d2d220f09a069f1c7",
       "tamano": 9414827
@@ -794,6 +839,11 @@
       "ruta": "mods/lootr-forge-1.20-0.7.35.94.jar",
       "sha1": "1ec77a7df8adbf3290a296bf25b8f99f37a60020",
       "tamano": 463485
+    },
+    {
+      "ruta": "mods/mcef-forge-2.1.6-1.20.1.jar",
+      "sha1": "6d9fa1433d509be242d1d74282d02a0fbebde110",
+      "tamano": 218417
     },
     {
       "ruta": "mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
@@ -1064,6 +1114,11 @@
       "ruta": "mods/waystones-forge-1.20.1-14.1.21.jar",
       "sha1": "61952fb248a9689fe46d5ffb223fcc41e31fef1a",
       "tamano": 536782
+    },
+    {
+      "ruta": "mods/webdisplays-2.0.2-1.20.1.jar",
+      "sha1": "f05566e3b898de8542fa7fa79aebd2cff69b89e6",
+      "tamano": 811968
     },
     {
       "ruta": "mods/xaerominimap-forge-1.20.1-26.5.0.jar",
